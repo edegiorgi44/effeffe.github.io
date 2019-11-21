@@ -3,9 +3,8 @@ layout: page
 title: About
 ---
 
-## Ultra - Super fast Jekyll theme 
-
-Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
+## effeffe - Filippo Falezza's personal website
+<--
 
 ### Key features
 
@@ -19,3 +18,5 @@ Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weig
 - sitemap
 - robots.txt
 - atom feed
+
+-->
