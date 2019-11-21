@@ -4,8 +4,8 @@ title: About
 ---
 
 ## effeffe - Filippo Falezza's personal website
-{%
 
+{% comment %}
 ### Key features
 
 - seo optimized
@@ -19,4 +19,4 @@ title: About
 - robots.txt
 - atom feed
 
-%}
+{% endcomment %}
