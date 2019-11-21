@@ -1,0 +1,21 @@
+       __  __       __  __      
+  ___ / _|/ _| ___ / _|/ _| ___ 
+ / _ \ |_| |_ / _ \ |_| |_ / _ \
+|  __/  _|  _|  __/  _|  _|  __/
+ \___|_| |_|  \___|_| |_|  \___|
+
+ /** TEAM **/
+  Author
+    Filippo Falezza
+
+/** THANKS **/
+Jekyll: https://jekyllrb.com/
+&
+ronv: https://github.com/ronv/ultra
+
+/** SITE **/
+  Last update : 2019/11/21
+  Standards: Jekyll
+  Software: Github, geany, figlet, firefox, archlinux, bash
+  
+-- About humans.txt: http://humanstxt.org/ --
