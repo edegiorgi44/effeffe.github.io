@@ -2,8 +2,8 @@ site: effeffe
 url: http://effeffe.github.io
 title: effeffe
 description: effeffe - Filippo Falezza's personal website
-twitter: @FalezzaFilippo
-  username: yourusername
+twitter:
+  username: @FalezzaFilippo
   card: summary
 
 permalink: pretty
