@@ -4,7 +4,7 @@ title: About
 ---
 
 ## effeffe - Filippo Falezza's personal website
-<--
+{%
 
 ### Key features
 
@@ -19,4 +19,4 @@ title: About
 - robots.txt
 - atom feed
 
--->
+%}
