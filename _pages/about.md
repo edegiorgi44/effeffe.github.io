@@ -10,7 +10,7 @@ My main intrests are physics, electronics, hardware hacking, programming and Lin
 
 ### declaration of intents
 This website has as purpose to publish some of the projects I do, together with random stuff I come across daily, which is not usually available as a blog and it would be useless to make a specific one just for that.  
-Enjoy :)
+Enjoy :-)
 
 {% comment %}
 ### Key features
