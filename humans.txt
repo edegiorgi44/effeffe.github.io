@@ -14,7 +14,7 @@ Jekyll: https://jekyllrb.com/
 ronv: https://github.com/ronv/ultra
 
 /** SITE **/
-  Last update : 2019/11/21
+  Last update : 2020/02/05
   Standards: Jekyll
   Software: Github, geany, figlet, firefox, archlinux, bash
   
