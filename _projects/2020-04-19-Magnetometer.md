@@ -6,7 +6,7 @@ summary: Datalogger with a PYBoard
 category: Project category
 ---
 
-I have found myself in need of a decent datalogger while doing an experiment in the pysics laboratory (2^{nd} year of MSci). But let's start with order...
+I have found myself in need of a decent datalogger while doing an experiment in the pysics laboratory (2<sup>nd</sup> year of MSci). But let's start with order...
 
 # The Thomson's jumping ring
 This experiment is very famous and consist of a simple ring of metallic material jumping because of induced electric current via an electromagnet. It is a very simple concept, but it can become messy when doing a deep analysis of the forces in field. Hence, me and my lab partner wanted to be able to record the spikes of the magnetic field over time, as the magnetometer provided wasn't able to catch spikes, nor had datalogging capabilities.
