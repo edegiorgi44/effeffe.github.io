@@ -21,4 +21,4 @@ This is why I choose to go with a more advanced board, with more RAM, higher res
 
 
 ### References
-[1]: https://arduino.stackexchange.com/questions/699/how-do-i-know-the-sampling-frequency
+[1] : https://arduino.stackexchange.com/questions/699/how-do-i-know-the-sampling-frequency
