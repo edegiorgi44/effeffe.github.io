@@ -7,7 +7,7 @@ category: Project category
 ---
 
 I have found myself in need of a decent datalogger while doing an experiment in the pysics laboratory (2<sup>nd</sup> year of MSci). Here you can find how to build one with the same characteristics as mine, with a sampling frequency of 5KHz over 2 channels for up to 4s per run. Note that the resolution is quite high (12bit).  
-Here you can find the entire story about how I built it otherwise, if you are just interested only in building one, skip [here](#acqusition) TEST.  
+Here you can find the entire story about how I built it otherwise, if you are just interested only in building one, skip [here](#acquire) TEST.  
 
 Let's start with order...
 
