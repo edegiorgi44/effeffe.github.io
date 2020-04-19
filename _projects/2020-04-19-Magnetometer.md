@@ -3,7 +3,7 @@ layout: project
 title: Datalogger
 description: Datalogger_PYBoard
 summary: Some summary of project
-category: Physics
+category: Laboratory
 ---
 
 # Just a filler
