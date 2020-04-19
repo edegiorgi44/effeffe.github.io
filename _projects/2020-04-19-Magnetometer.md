@@ -47,7 +47,7 @@ The write script can be found here [5](https://github.com/effeffe/PYBlite_datalo
 
 ### [IC used and final notes](#final)
 In my case, the datalogger was used using a couple of TI DRV5055A1 (hall sensors) to measure the radial and vertical components of the magnetic field of a solenoid. In this case, the data have been analysed using the script here [6](https://github.com/effeffe/PYBlite_datalogger/blob/master/Analysis.py), which produces a png with the plot and the peak values in a txt file. This may need tweaks, as was origianally written for a negative magnetic field (for a positive changing the np.min to np.max should be enough).  
-In general, all the notes regarding this project can be found here [7](https://github.com/effeffe/PYBlite_datalogger), where it is possible to discuss the coded and improove it.  
+In general, all the notes regarding this project can be found here [7](https://github.com/effeffe/PYBlite_datalogger), where it is possible to discuss the code and improve it.  
 
 Anyways, for some code written in a weekend, the outcome was nice and it was fully working.
 
