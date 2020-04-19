@@ -53,10 +53,10 @@ Anyways, for some code written in a weekend, the outcome was nice and it was ful
 
 
 ### [References](#references)
-[1] : [https://arduino.stackexchange.com/questions/699/how-do-i-know-the-sampling-frequency](https://arduino.stackexchange.com/questions/699/how-do-i-know-the-sampling-frequency)
-[2] : [https://docs.micropython.org/en/latest/pyboard/tutorial/reset.html#factory-reset-the-filesystem](https://docs.micropython.org/en/latest/pyboard/tutorial/reset.html#factory-reset-the-filesystem)
-[3] : [https://github.com/effeffe/PYBlite_datalogger/blob/master/script.py](https://github.com/effeffe/PYBlite_datalogger/blob/master/script.py)
-[4] : [https://docs.micropython.org/en/latest/library/pyb.ADC.html](https://docs.micropython.org/en/latest/library/pyb.ADC.html)
-[5] : [https://github.com/effeffe/PYBlite_datalogger/blob/master/write.py](https://github.com/effeffe/PYBlite_datalogger/blob/master/write.py)
-[6] : [https://github.com/effeffe/PYBlite_datalogger/blob/master/Analysis.py](https://github.com/effeffe/PYBlite_datalogger/blob/master/Analysis.py)
-[7] : [https://github.com/effeffe/PYBlite_datalogger](https://github.com/effeffe/PYBlite_datalogger)
+[1] : [https://arduino.stackexchange.com/questions/699/how-do-i-know-the-sampling-frequency](https://arduino.stackexchange.com/questions/699/how-do-i-know-the-sampling-frequency)  
+[2] : [https://docs.micropython.org/en/latest/pyboard/tutorial/reset.html#factory-reset-the-filesystem](https://docs.micropython.org/en/latest/pyboard/tutorial/reset.html#factory-reset-the-filesystem)  
+[3] : [https://github.com/effeffe/PYBlite_datalogger/blob/master/script.py](https://github.com/effeffe/PYBlite_datalogger/blob/master/script.py)  
+[4] : [https://docs.micropython.org/en/latest/library/pyb.ADC.html](https://docs.micropython.org/en/latest/library/pyb.ADC.html)  
+[5] : [https://github.com/effeffe/PYBlite_datalogger/blob/master/write.py](https://github.com/effeffe/PYBlite_datalogger/blob/master/write.py)  
+[6] : [https://github.com/effeffe/PYBlite_datalogger/blob/master/Analysis.py](https://github.com/effeffe/PYBlite_datalogger/blob/master/Analysis.py)  
+[7] : [https://github.com/effeffe/PYBlite_datalogger](https://github.com/effeffe/PYBlite_datalogger)  
