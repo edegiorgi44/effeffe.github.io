@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenVPN profiles .ovpn import to NetworkManager
+title: Import and update OpenVPN profiles to NetworkManager
 description: Linux
 ---
 # Ovpn profiles import to NetworkManager
