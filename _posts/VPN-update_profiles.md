@@ -15,10 +15,10 @@ First, download it to the folder where you OpenVPN profiles are, then set the us
 8 PASSWORD=password_here
 9 #
 ```
-apply now execution permissions to the screipt as `chmod +x VPN-update_profiles.sh` and execute it. Please note that according to your system configuration, it could require root permissions.
+apply now execution permissions to the screipt as `chmod +x VPN-update_profiles.sh` and execute it. Please note that, according to your system configuration, the script could require root permissions to modify NetworkManager connections.  
 
-To explain what the script does in a few words, it updates your VPN configuration for the corresponding profiles present in the current folder you are working in.  
-In more words, it removes all the openvpn connections in your system that correspond to the profiles in the current folder, then adds all the profiles that are in the folder and then sets the username and the password.  
+To explain what the script does in a few words, the script updates your VPN configuration for the corresponding profiles present in the current folder you are working in.  
+In more words, it removes all the openvpn connections in your system that correspond to the profiles in the current folder, then adds all the .ovpn profiles that are in the folder and then sets the username and the password declared at the beginning of ther script.  
 In case your login system does require other parameters, you may want to modify the script accordingly.
 
 ## References
